@@ -14,7 +14,7 @@ function getColor () {
 }
 function addColor () {
   const color = getColor()
-  console.log(color)
+  // console.log(color)
   bgElm.style.backgroundImage = color
 }
 
